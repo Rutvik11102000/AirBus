@@ -1,0 +1,41 @@
+
+
+h1,
+p {
+  font-family: Lato;
+}
+tr::after {
+  content: '';
+  padding-bottom: 5px;
+}
+ul li {
+  list-style: none;
+}
+.col-sm-3 {
+  background-color: burlywood;
+}
+.footer {
+  background-color:cornsilk;
+  height: 62px !important;
+  padding: 20px;
+  font-weight: bold;
+}
+.navbar-light .navbar-brand {
+  color: #000000;
+  padding: 10px;
+}
+.d-flex {
+  display: flex !important;
+  padding-right: 10px;
+}
+.bn {
+  margin-right: 10px;
+}
+a {
+  text-decoration: none !important;
+}
+h1,
+h2 {
+  text-align: center;
+  padding: 279px;
+}
